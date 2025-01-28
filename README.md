@@ -30,4 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishdanu&" alt="ashishdanu" /></p>
 
+### ⚡ Fun Fact:
 
+**I’m a lifelong learner and love sharing knowledge! 🚀**

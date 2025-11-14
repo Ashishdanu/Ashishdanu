@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishdanu&label=Profile%20views&color=0e75b6&style=flat" alt="ashishdanu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://myprotfolioashuji.netlify.app/](https://myprotfolioashuji.netlify.app/)
 
 - 💬 Ask me about **react , js , python , SQL**
 
